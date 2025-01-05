@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I'm currently working on:
+  - inference frameworks for LLM
+- 🌱 I'm currently learning:
+  - cuda programming
+  - pytorch
+- 📫 Reach me by email on my profile.
