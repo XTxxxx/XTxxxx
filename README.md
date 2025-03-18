@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I'm currently working on:
-  - inference frameworks for LLM
+  - inference frameworks for LLM & rag system
 - 🌱 I'm currently learning:
   - cuda programming
   - pytorch
