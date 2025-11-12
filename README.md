@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I'm currently working on:
-  - inference frameworks for LLM & rag system & vector database(Milvus)
+  - inference frameworks for LLM (ml system / ai infra)
+  - hashing
+- I'm also contributor of milvus (https://github.com/milvus-io/milvus)
+  - the timestamptz datatype
+  - know the architecture very well
 - 📫 Reach me by email on my profile.
